@@ -1,0 +1,65 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+}
+
+.adicionar{
+    display: flex;
+    margin: 40px 30px 30px 30px;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.cadastro{
+    background: rgba(150, 149, 149, 0.103);
+    backdrop-filter: blur(76px);     
+    -webkit-backdrop-filter: blur(10px);
+    width: 330px;
+    height: 420px;
+    border-radius: 50px;
+}
+
+.perfil{
+    width: 120px;
+    border-radius: 100%;
+    margin-bottom: 10px;  
+}
+
+.campo{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #aaaaaa;
+    outline: none;
+    padding: 5px 0;
+    width: 87%;
+    color: #000;
+    font-size: 16px;
+    transition: border-color 0.3s; 
+}
+
+#btnAdicionar{
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+}
+
+.verificar{
+    display: flex;
+    flex-direction: row;
+}
+
+#edVerificar{
+    display: flex;
+    margin-left: 6%;
+    align-items: flex-start;
+}
+
+.verificar .btn{
+    width: 40%;
+    padding: 1px;
+    margin-left: 10px;
+}
