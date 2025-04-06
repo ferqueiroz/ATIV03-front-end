@@ -28,7 +28,7 @@ function remover(){
     if (isNaN(lValor) || lValor == '')
         return;
 
-    usuario.splice(lValor, lValor + 1);
+    usuario.splice(lValor, 1);
     console.log(usuario);
 
     alert('Removido o Usuario do index:  ' + lValor);
