@@ -12,13 +12,13 @@ Ferramentas e tecnologias utilizadas nesse projeto
 
 - ✅ **HTML5** - Estruturação do site
 - ✅ **CSS3** - Estilização e responsividade
-- ✅ **JavaScript** - Utilização e interação do mapa
+- ✅ **JavaScript** - Armazenar e pesquisar os usuários cadastrados
 - ✅ **Bootstrap** - Agilidade e design intuitivo
 
 
 ## 📄 Licença
 
-Este projeto está sob a licença (queiroz) - veja o arquivo [LICENSE](https://github.com/ferqueiroz/AEP-2025/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (queiroz) - veja o arquivo [LICENSE](https://github.com/ferqueiroz/ATIV03-front-end/blob/main/LICENSE) para detalhes.
 
 ## 📩 Contato  
 
